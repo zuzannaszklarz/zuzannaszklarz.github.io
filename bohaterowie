@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>STRANGER THINGS</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="fontello/css/fontello.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700&amp;subset=latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Rubik&amp;subset=latin-ext" rel="stylesheet">
+	
+	<style>
+	h1 {
+	color: rgb(240, 60, 69);
+	}
+	</style>
+	
+</head>
+<body>
+	<header>
+	
+		<img src="images/heather.jpg" alt="heather" width="1600">
+
+		<nav>
+			<ul>
+					<li><a href="index.html">STRONA GŁÓWNA</a></li>
+				<li><a href="onas.html">BOHATEROWIE</a></li>                           
+				<li><a href="kontakt.html">OBSADA</a></li>
+				<li><a href="">OPINIE</a></li><br>
+				 <li><a href="nasze-oferty.html">SEZON 1</a></li>
+				 <li><a href="">SEZON 2</a></li>
+				<li><a href="">SEZON 3</a></li>
+				
+			</ul>
+		</nav>
+	</header>
+	<main>
+	   <div class="container">
+	   
+           <h1>1.Jedenastka</h1>
+		   <br><br><br>
+		   
+		     <p>Jedenastka jako mała dziewczynka, została zmuszana do eksperymentów zorganizowanych przez Ministerstwo Energii, które miały one na celu ujawnienie ich paranormalnych zdolności.</p><br><br>
+		   
+		   <p>Jedenastkę pierwszy raz widzimy jako dziewczynę, która uciekła z budynku Ministerstwa Energii. Została jednak zauważona przez Benny'ego Hammonda, który przyłapał Nastkę na podjadaniu frytek. Ostatecznie dziewczyna trafiła pod opiekę właściciela lokalu, który poczęstował dziewczynę hamburgerem oraz lodami. Dziewczyna po zamordowaniu restauratora przez agentkę rządową, postanowiła uciec przed agentami rządowymi.</p><br><br>
+		   
+		   <img src="images/eleven.png"  width="1000">
+		   
+		   <br><br><br>
+		   <h1>2.Will Byers</h1>
+		   <br><br><br>
+		   
+		   <p>Syn Joyce Byers i młodszy brat Jonathana Byersa. W pierwszym odcinku zostaje porwany do odwróconego świata zwanego Drugą stroną. Zostaje uratowany przez Jima Hoppera i swoją matkę.  Czas spędzony po drugiej stronie sprawił, że zyskał połączenie z alternatywnym wymiarem i nawiedzają go wizje pochodzące z Drugiej strony. Will jest cichym, spokojnym i przyjacielskim chłopcem. Przyjaźni się z Mikeem Wheelerem, Dustinem Hendersonem i Lucasem Sinclairem. Uwielbia rysować</p>
+		   <br><br>
+		   	   <img src="images/will-byers.jpg"  width="800">
+			   
+			   
+			   <h1>3.Mike Wheeler</h1> <br><br><br>
+			   <p> Młodszy brat Nancy Wheeler. Jego przyjaciółmi są Will Byers, Dustin Henderson i Lucas Sinclair. Gdy Will znika w tajemniczych okolicznościach, wraz z przyjaciółmi stara się go odnaleźć. Jest emocjonalną i naiwną osobą, gotową uwierzyć w najbardziej fantastyczne historie. W trakcie poszukiwań znajduje z Dustinem i Lucasem Jedenastkę, którą ukrywa w swoim domu. Jest za przyjęciem Jedenastki do zespołu, a z czasem zakochuje się w niej. Udaje mu się ustalić z przyjaciółmi, że Will znajduje się w odwróconym, mrocznym świecie zwanym Drugą stroną.</p> <br><br>
+			   
+			   
+			   <h1>4.Dustin Henderson</h1>   
+			    
+				<p>Przyjaźni się z Willem Byersem, Mikeem Wheelerem i Lucasem Sinclairem. Wiele razy był negocjatorem w sprzeczkach słownych pomiędzy Mikem a Lucasem - między innymi w kłótni dotyczącej, czy przyjąć Jedenastkę do zespołu. Podchodzi rzeczowo do niezrozumiałych sytuacji, zawsze próbuje znaleźć logiczne wytłumaczenie, podpierając się się nauką. W czasie Camp Know Where poznaje Suzie, z którą tworzy związek na odległość. Cierpi na dysplazję obojczykowo-czaszkową. Nosi na głowie czaszkę z daszkiem.</p>
+				
+				
+				<h1>5.Lucas Sinclair</h1>
+				
+				<p>Przyjaźni się z Willem Byersem, Mikem Wheelerem i Dustinem Hendersonem. Podchodzi poważnie do każdej sytuacji, zawsze szuka racjonalnego rozwiązania. Po zniknięciu Willa razem z przyjaciółmi rozpoczyna jego poszukiwania, w trakcie których znajdują Jedenastkę. Will początkowo jej nie ufa i jest przeciwny przyjęciu dziewczyny do drużyny. Staje się to powodem kłótni z Mikem, po której decyduje się szukać Willa na własną rękę. Z czasem zmienia zdanie co do Jedenastki. Świetnie strzela z procy. W drugim sezonie poznaje Max Mayfield, z którą tworzy związek.</p>
+				
+				
+				
+				
+				
+				<h1></h1>
+		
+
+
+
+
+				<h1></h1>
+				
+				
+				
+				
+				
+				
+				
+				<h1></h1>
+				
+				
+				
+				<h1></h1>
+				
+				
+				
+				<h1></h1>
+		   
+        </div>
+	</main>
+	<footer class="oonas">
+
+	</footer>
+</body>
+</html>
